@@ -1,0 +1,13 @@
+# Ignore CMake build folder and cache
+build/
+.cache/
+
+# Ignore compiled binaries and artifacts
+*.uf2
+*.elf
+*.bin
+*.hex
+*.map
+*.obj
+*.o
+*.d
